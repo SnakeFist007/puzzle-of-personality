@@ -20,9 +20,8 @@ cssclasses:
 # Typology Systems
 
 [[Myers-Briggs Type Indicator]]
-[[Enneagram of Personality]]
 
-[[How to Type Yourself and Others]]
+[[Enneagram of Personality]]
 
 ---
 
@@ -38,7 +37,7 @@ Fortunately, there is also a wealth of information available on these systems, s
 
 To address this issue, I have created these pages as an attempt to consolidate the vast amount of knowledge into a single location. I have carefully curated the information, keeping only what overlaps and re-evaluating it to ensure accuracy. Additionally, I also simplified the language in certain parts because some sections were just overly complex.
 
-I hope to save you the hundreds of hours I invested into researching about this topic, and all the headaches I got trying to make sense of it. This page serves as a definitive guide which, unlike most websites, is always kept up-to-date. If you have any ideas for improvements or happen to notice any false assumptions, please contact me on Discord! 💜
+I hope to save you the hundreds of hours I invested into researching about this topic, and all the headaches I got trying to make sense of it. This page serves as a definitive guide which, unlike most websites, is always kept up-to-date. If you have any ideas for improvements or happen to notice any false assumptions, please contact me on Discord @snakefist! 💜
 
 ---
 
