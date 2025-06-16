@@ -8,8 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/SnakeFist007/puzzle-of-personality",
-      Impressum: "https://pop.snakefist.de/Legal-Notice",
+      GitHub: "https://github.com/SnakeFist007/puzzle-of-personality"
     },
   }),
 }
