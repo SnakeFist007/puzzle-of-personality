@@ -1,7 +1,7 @@
 ---
 tags:
-  - Typologie/Enneagram
-  - Typologie/Enneagram/e9
+  - Typology/Enneagram
+  - Typology/Enneagram/e9
 links: 
 aliases:
   - e9

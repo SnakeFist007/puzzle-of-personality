@@ -1,6 +1,6 @@
 ---
 tags:
-  - Typologie/Enneagram
+  - Typology/Enneagram
 links:
   - "[[The Puzzle of Personality]]"
 aliases:

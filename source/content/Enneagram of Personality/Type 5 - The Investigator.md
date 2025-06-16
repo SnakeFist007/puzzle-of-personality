@@ -1,7 +1,7 @@
 ---
 tags:
-  - Typologie/Enneagram
-  - Typologie/Enneagram/e5
+  - Typology/Enneagram
+  - Typology/Enneagram/e5
 links: 
 aliases:
   - e5

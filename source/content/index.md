@@ -1,7 +1,7 @@
 ---
 title: The Puzzle of Personality
 tags:
-  - Typologie
+  - Typology
 links:
 aliases:
 cssclasses:

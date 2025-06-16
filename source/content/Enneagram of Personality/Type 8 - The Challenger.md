@@ -1,7 +1,7 @@
 ---
 tags:
-  - Typologie/Enneagram
-  - Typologie/Enneagram/e8
+  - Typology/Enneagram
+  - Typology/Enneagram/e8
 links: 
 aliases:
   - e8

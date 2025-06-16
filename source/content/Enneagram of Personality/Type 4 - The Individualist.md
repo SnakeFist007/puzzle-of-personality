@@ -1,7 +1,7 @@
 ---
 tags:
-  - Typologie/Enneagram
-  - Typologie/Enneagram/e4
+  - Typology/Enneagram
+  - Typology/Enneagram/e4
 links: 
 aliases:
   - e4

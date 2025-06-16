@@ -1,7 +1,7 @@
 ---
 tags:
-  - Typologie/Enneagram
-  - Typologie/Enneagram/e7
+  - Typology/Enneagram
+  - Typology/Enneagram/e7
 links: 
 aliases:
   - e7
