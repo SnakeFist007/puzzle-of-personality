@@ -106,7 +106,7 @@ They prefer to work and refine their ideas on their own, because in a team envir
 
 > [!tip] Describes how Fives deal with outer conflict in general.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e135_harmony.svg" width="300" />
 </div>
 
