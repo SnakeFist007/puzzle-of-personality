@@ -8,7 +8,7 @@ cssclasses:
 ---
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/tadano1.svg" width="250" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/tadano1.png" width="250" />
 </div>
 
 > [!info] Hey there and welcome!
