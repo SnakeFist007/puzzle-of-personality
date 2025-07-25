@@ -8,7 +8,7 @@ cssclasses:
 ---
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-The_Puzzle_of_Personality_Tadano-1.png" width="250" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/tadano1.svg" width="250" />
 </div>
 
 > [!info] Hey there and welcome!
@@ -19,9 +19,7 @@ cssclasses:
 
 # Typology Systems
 
-[[Myers-Briggs Type Indicator]]
-
-[[Enneagram of Personality]]
+- [[Enneagram of Personality]]
 
 ---
 
@@ -47,5 +45,5 @@ Powered by the [Quartz Obsidian Template](https://github.com/DefenderOfBasic/obs
 _SnakeFist, 2022-2025_
 
 <div>
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>
