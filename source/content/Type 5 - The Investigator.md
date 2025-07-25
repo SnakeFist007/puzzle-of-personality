@@ -64,7 +64,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 > [!tip] How Fives deal with their main emotion of **Fear** and core issue of **Stinginess**.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triad/e567_triad.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triad/e567_triads.svg" width="300" />
 </div>
 
 - **Core Question:** _“Where am I, and is it safe for me here?”_
@@ -107,7 +107,7 @@ They prefer to work and refine their ideas on their own, because in a team envir
 > [!tip] Describes how Fives deal with outer conflict in general.
 
 <div>
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e135_harmony.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e135_harmony.svg" width="300" />
 </div>
 
 Fives can get into conflicts by being too detached, isolated, and provocative. They naturally detach themselves emotionally from the world to be objective. They believe that they have the mental resources to deal with problems. In conflict, Fives will want to withdraw and will think for a while before coming back with a solution, often to the irritation of others.
