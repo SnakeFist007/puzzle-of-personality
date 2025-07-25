@@ -63,7 +63,9 @@ Twos are trying to fix in other the hurts that they are unable to fully acknowle
 
 > [!tip] How Twos deal with their main emotion of **Shame** and core issue of **Pride**.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_234_Triad-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e234_triad.svg" width="300" />
+</div>
 
 - **Core Question:** _“With who am I in a relationship of some sorts, and what quality does this relationship have?”_
     - **Issue:** not be seen, loved enough or not being cared for emotionally
@@ -83,8 +85,8 @@ All Heart types (Types Two, Three & Four) depend on their emotional intelligenc
 
 > [!tip] Developed by Karen Horney, it describes how Twos get what they want and how they resolve inner conflicts.
 
-<div>
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e126_horny.svg" width="300" />
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e126_horney.svg" width="300" />
 </div>
 
 - responsible, dedicated and want to do what's expected of them
@@ -108,7 +110,9 @@ Twos will do what they believe is best, even if it means sacrificing their own w
 
 > [!tip] Describes the Twos general approach to conflict and outer challenges.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_279_Harmony-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e279_harmony.svg" width="300" />
+</div>
 
 The silver lining is what these types focus upon. When the going gets tough, the Positive Outlook types bring our attention to what is still going right and how the problem may not be that bad.
 Type Two will focus on people, calming and reassuring them in trouble, which also helps them to keep their own inner peace.
@@ -128,7 +132,9 @@ Twos also have difficulties admitting to problems:
 
 > [!tip] How Twos form their sense of self through relationships.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_258_Object-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e258_object.svg" width="300" />
+</div>
 
 - either feel rejected or expect rejection from the get-go:
     - _“others don't care about my needs”_
@@ -159,7 +165,9 @@ The Two offers the “only” gift it has left: their heart. They focus on the n
 
 > [!tip] Prideful Twos become _self-nurturing_, like Fours.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_Integration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e2_int.svg" width="300" />
+</div>
 
 - become actualized and remain healthy by learning to recognize and accept all of their feelings without censoring
     - become acquainted and comfortable with the entire panoply of feeling states available to them - including their secret needs and their darkest hatreds
@@ -173,7 +181,9 @@ The Two offers the “only” gift it has left: their heart. They focus on the n
 
 > [!tip] Desperate Twos become _aggressive_ and _dominating_, like Eights.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_Disintegration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e2_dis.svg" width="300" />
+</div>
 
 - become more blunt and forceful, which reveals that they are remarkably tough underneath it all
     - “Beneath the velvet glove is an iron fist.”
@@ -261,7 +271,9 @@ Pride both **prevents** them from experiencing love and nurturance from others, 
 
 ## Balance of Pride and Humility
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_Balance-1.gif|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e2/balance.gif" width="300" />
+</div>
 
 > “Pride is not the opposite of shame, but its source. True humility is the only antidote to shame.” ~Iroh
 
@@ -385,36 +397,42 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_TraitLab-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e2/e2_traitlab.png" width="700" />
+</div>
 
 ## Probable Connections to MBTI
 
 > [!caution] Disclaimer
 > The MBTI correlations presented here are based on personal observations and general patterns. While they can offer helpful insights, they are not definitive or scientifically proven connections.
 
-- [[../Myers-Briggs Type Indicator/ESFJ - The Consul|ESFJ - The Consul]]
-- [[../Myers-Briggs Type Indicator/ENFJ - The Protagonist|ENFJ - The Protagonist]]
-- [[../Myers-Briggs Type Indicator/ISFJ - The Defender|ISFJ - The Defender]]
-- [[../Myers-Briggs Type Indicator/INFJ - The Advocate|INFJ - The Advocate]]
-- [[../Myers-Briggs Type Indicator/ENFP - The Campaigner|ENFP - The Campaigner]]
-- [[../Myers-Briggs Type Indicator/ESFP - The Entertainer|ESFP - The Entertainer]]
+- ESFJ - The Consul
+- ENFJ - The Protagonist
+- ISFJ - The Defender
+- INFJ - The Advocate
+- ENFP - The Campaigner
+- ESFP - The Entertainer
 
 ## Characters You May Know
 
 > [!caution] Disclaimer
 > The typing of the characters displayed here are based on personal opinion. They are in no way representative of what the writers may have originally intended.
 
-![[../../99 - Meta/Attachments/2025-06-28-e2_MisatoKatsuragi-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e2/misato_katsuragi.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_Makima-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e2/makima.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_Misa-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e2/asami_sato.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_Wilson-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_Asami-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_2_Emma-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e2/emma.png" width="700" />
+</div>
 
 ---
 _SnakeFist, 2022-2025_

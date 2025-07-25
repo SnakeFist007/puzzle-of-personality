@@ -59,7 +59,9 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Threes deal with their main emotion of **Shame** and core issue of **Deceit**.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_234_Triad-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e234_triad.svg" width="300" />
+</div>
 
 - **Core Question:** _“Who do I need to become to be valued and respected?”_
     - **Issue:** not be seen, loved enough or not being cared for emotionally
