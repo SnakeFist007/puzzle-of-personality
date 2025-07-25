@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e6
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e6
 links: 
 aliases:
   - e6
   - Type 6
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
  > [!quote] John Irving
@@ -68,9 +70,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Sixes deal with their main emotion of **Fear** and core issue of **Doubt**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_567_Triad-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_567_Triad-1.svg|300]]
 
 - **Core Question:** _“When will I know that I have enough security?”_
     - **Issue:** fear being abandoned and left without support
@@ -88,8 +88,8 @@ All Head types (Types Five, Six and Seven) depend on their intellectual intellig
 
 > [!tip] Describes how Sixes get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_126_Horney-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e126_horny.svg" width="300" />
 </div>
 
 **These people try to obey internalized rules and principles to get what they want.**
@@ -104,9 +104,7 @@ Their commitment to their cause gives them confidence and makes them look down u
 
 > [!tip] Describes how Sixes deal with outer conflict in general.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_468_Harmony-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_468_Harmony-1.svg|300]]
 
 Sixes can get into conflict by being too pessimistic, suspicious, and doubtful. They tend to be very anxious people, always on the watch for dangers and threats. When conflicts or threats occur, their anxiety comes out, often as long rants, hysterical overreactions, and feelings of inferiority. Sixes want to trust others, but remain wary of problems.
 
@@ -120,9 +118,7 @@ Sometimes they let their guard down (when within the confines of the authority /
 
 > [!tip] How Sixes see the world, and what they expect from relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_369_Object-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_369_Object-1.svg|300]]
 
 - they adapt their behavior to be consistent with people or things
     - “What is the best way to interact with people / things?”
@@ -145,9 +141,7 @@ Sixes doubt their own ability to cope with the world, so they seek security thro
 
 > [!tip] Sixes become _relaxed_ and _optimistic_, like Nines.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_Integration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_Integration-1.svg|300]]
 
 - to find stability, focus on physical presence to get grounded in the present moment
 - being active doesn't equate to being aware of the body's sensations. Pay attention to sensory impressions to counterbalance constant thinking and provide an alternative identity
@@ -157,9 +151,7 @@ Sixes doubt their own ability to cope with the world, so they seek security thro
 
 > [!tip] Sixes become _competitive_ and _arrogant_, like Threes.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_Disintegration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_Disintegration-1.svg|300]]
 
 - may also become boastful and self-promoting
 - dismissing others, and hyping their own superiority in a desperate attempt to defend against their low self-esteem and feelings of inferiority
@@ -262,8 +254,6 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 > [!info] Focuses on our needs for material supplies and security, including food, warmth and family relations.
 
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e2 or e7</mark>
-
 > "I need to have the right alliances."
 
 - lead with warmth and kindness, seek connections and alliances
@@ -277,11 +267,11 @@ What mainly differentiates the wings from each other, is how they approach the c
     - need outside support to get to a conclusion, to really feel sure
 - can bring doubt into situations, where they wasn't any in the first place
 
+⟶ This Six may resemble a Two or a Seven, leading with warmth and kindness while appearing active and connecting.
+
 ### so - The Loyalist
 
 > [!info] Focuses on our needs for belonging and membership within the larger group and community.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like </mark>
 
 > "I need to follow the rules."
 
@@ -294,11 +284,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - want the world to be black & white, so they see dangers ahead of time
 - provoke critical thinking through doubts
 
+⟶ This Six may resemble a One, due to their focus on rules and authorities to feel safe.
+
 ### sx - The Rebel
 
 > [!info] Focuses on our intimate relationships & friendships, as well as the vitality of our life force.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e8 or e4</mark>
 
 > "I’m going to be strong, so they won’t attack me."
 
@@ -312,6 +302,8 @@ What mainly differentiates the wings from each other, is how they approach the c
     - may assert themselves against their own supporters or third parties instead of the true source of their anxieties
 - believe anybody can be a threat, have a hard time trusting and believing in others
 
+⟶ This Six may resemble a Four or an Eight, because they mask their insecurities through dramatic defiance and seduction, while challenging authorities.
+
 ### Blind Spot
 
 > [!warning] Blind Spots  
@@ -323,16 +315,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Own your power**
 	Sixes tend to view life as a series of events that happens to them, rather than a journey where they steer the ship. When Sixes learn to acknowledge and own the power they yield, they can be braver and bolder in how they show up to the world.
-
+	
 2. **Be aware of how you create self-fulfilling prophecies**
 	A self-fulfilling prophecy happens when you unconsciously make something happen by over-fixating on it. Sixes do this when they allow their fear to lead to extreme paranoia. For example, if a Six over-fixates on the fear that their partner is less interested in them, they may introduce added tension to the relationship that wouldn’t be there otherwise.
-
+	
 3. **Work on building trust in your relationships**
 	Understand that not everyone has ulterior motives or is out to harm you. This kind of scepticism can cause problems in otherwise healthy relationships. When Sixes learn to have more faith in the people in their lives, they can form stronger and more meaningful connections.
-
+	
 4. **Develop healthy habits to release anxiety**
 	Sixes spend a lot of time in their heads, so it’s essential to practice habits that allow your energy to focus on your body. While exercise is important for everyone, it’s especially helpful in getting a Six to focus more on the present and release stress.
-
+	
 5. **Embrace Grounding and Trust**
 	Practice grounding techniques, confront recurring fears, and question their validity. Shift focus from negativity to positivity, and embrace fearful situations to build courage and foster openheartedness in life and relationships.
 
@@ -342,9 +334,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_TraitLab-1.png" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_TraitLab-1.png|700]]
 
 ## Probable Connections to MBTI
 
@@ -352,18 +342,21 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Characters You May Know
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_Armin_Arlert-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_Chloe_Price-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_Eren_Yeager-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_Mikasa_Ackerman-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_Sokka-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_6_Violet_Evergarden-1.svg" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_Armin_Arlert-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_Chloe_Price-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_Eren_Yeager-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_Mikasa_Ackerman-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_Sokka-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_6_Violet_Evergarden-1.svg|700]]
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>

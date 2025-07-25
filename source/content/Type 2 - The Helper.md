@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e2
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e2
 links: 
 aliases:
   - e2
   - Type 2
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
 > [!quote] Lao-Tzu
@@ -45,7 +47,7 @@ Twos come to believe three things during childhood:
 2. they must _give_ love, in order to _receive_ it
 3. they must _earn_ a place in the affections of others, because love will not simply be given to them
 
-Twos are trying to fix in other the hurts that they are unable to fully acknowledge in themselves. They learn to deal with their negative feelings by focusing on others, trying hard to please and help them. Ultimately, they will do almost anything to get some sign, some token, that they are loved. To acknowledge their own needs is a form of selfishness and strictly forbidden by their superego.
+Twos are trying to fix in other the hurts that they are unable to fully acknowledge in themselves. They learn to deal with their negative feelings by focusing on others, trying hard to please and help them. Ultimately, they will do almost anything to get some sign, some token, that they are loved. To acknowledge their own needs is a form of selfishness and forbidden by their superego.
 
 - deeply conditions them to believe, that by sacrificing themselves they will be rewarded with whatever is called _love_ in their family system
 - increasing difficulty acknowledging their own needs and pain ⟶ are drawn automatically to the needs and pain they see in others
@@ -61,9 +63,7 @@ Twos are trying to fix in other the hurts that they are unable to fully acknowle
 
 > [!tip] How Twos deal with their main emotion of **Shame** and core issue of **Pride**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_234_Triad-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_234_Triad-1.svg|300]]
 
 - **Core Question:** _“With who am I in a relationship of some sorts, and what quality does this relationship have?”_
     - **Issue:** not be seen, loved enough or not being cared for emotionally
@@ -83,8 +83,8 @@ All Heart types (Types Two, Three & Four) depend on their emotional intelligenc
 
 > [!tip] Developed by Karen Horney, it describes how Twos get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_126_Horney-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e126_horny.svg" width="300" />
 </div>
 
 - responsible, dedicated and want to do what's expected of them
@@ -108,9 +108,7 @@ Twos will do what they believe is best, even if it means sacrificing their own w
 
 > [!tip] Describes the Twos general approach to conflict and outer challenges.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_279_Harmony-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_279_Harmony-1.svg|300]]
 
 The silver lining is what these types focus upon. When the going gets tough, the Positive Outlook types bring our attention to what is still going right and how the problem may not be that bad.
 Type Two will focus on people, calming and reassuring them in trouble, which also helps them to keep their own inner peace.
@@ -130,9 +128,7 @@ Twos also have difficulties admitting to problems:
 
 > [!tip] How Twos form their sense of self through relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_258_Object-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_258_Object-1.svg|300]]
 
 - either feel rejected or expect rejection from the get-go:
     - _“others don't care about my needs”_
@@ -163,9 +159,7 @@ The Two offers the “only” gift it has left: their heart. They focus on the n
 
 > [!tip] Prideful Twos become _self-nurturing_, like Fours.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Integration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_Integration-1.svg|300]]
 
 - become actualized and remain healthy by learning to recognize and accept all of their feelings without censoring
     - become acquainted and comfortable with the entire panoply of feeling states available to them - including their secret needs and their darkest hatreds
@@ -179,9 +173,7 @@ The Two offers the “only” gift it has left: their heart. They focus on the n
 
 > [!tip] Desperate Twos become _aggressive_ and _dominating_, like Eights.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Disintegration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_Disintegration-1.svg|300]]
 
 - become more blunt and forceful, which reveals that they are remarkably tough underneath it all
     - “Beneath the velvet glove is an iron fist.”
@@ -269,9 +261,7 @@ Pride both **prevents** them from experiencing love and nurturance from others, 
 
 ## Balance of Pride and Humility
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Balance-1.gif" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_Balance-1.gif|300]]
 
 > “Pride is not the opposite of shame, but its source. True humility is the only antidote to shame.” ~Iroh
 
@@ -335,7 +325,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 - Struggles with taking up space or asking for help openly - indirect in their needs.
 - Might distract themselves with practicalities when emotional issues feel overwhelming.
 
-⟶ This version of Two may resemble 6 or 1 in their groundedness or anxiety about being needed.
+⟶ This Two may resemble a Six or a One in their groundedness or anxiety about being needed.
 
 ### so - The Networker
 
@@ -349,7 +339,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 - Has an internal fear of being left out or not being **seen as important** by others.
 - The “giver” role is used to build loyalty and reputation.
 
-⟶ This type of Two might appear similar to 3 or 8 in their drive and social charisma.
+⟶ This Two might appear similar to a Three or an Eight in their drive and social charisma.
 
 ### sx - The Intensifier
 
@@ -363,7 +353,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 - Has an intuitive sense of what others desire - and how to make them feel special.
 - Their attention is **highly focused** on key people and emotionally charged interactions.  
 
-⟶ This Two may resemble 4 or 7 in their intensity, expressiveness, and idealism in relationships.
+⟶ This Two may resemble a Four or a Seven in their intensity, expressiveness, and idealism in relationships.
 
 ### Blind Spot
 
@@ -376,16 +366,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Practice mindfulness for Personal Growth**
 	When Twos learn how to step outside of themselves and see their personality more objectively, they can observe patterns in their thoughts, feelings, and behaviors. This way, they can better understand where they need to set boundaries and practice self-care.
-
+	
 2. **Take note of your feelings about things**
 	Growth for a Type Two lies in acknowledging and accepting their own emotions, instead of denying them and prioritizing others all the time. Activities like journaling can help Twos get more in touch with their own emotions.
-
+	
 3. **Learn how to set healthy boundaries**
 	They are known for giving more energy to others than they may actually have to give. This leaves them feeling depleted and detached from their own identity. Twos flourish when they learn how to set healthy boundaries focused on their needs.
-
+	
 4. **Practice self-love**
 	They often feel trapped in their need to please other people. If approval is not easy to gain, the Twos may feel unworthy because they are not appreciated. It’s essential for Twos to learn to love who **they** truly are.
-
+	
 5. **Share the authentic self with other people**
 	They tend to alter their personalities to please the people around them. Make a conscious effort to be transparent and honest about how you think and feel. You will learn that people truly value the authentic side of you!
 
@@ -395,9 +385,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_TraitLab-1.png" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_TraitLab-1.png|700]]
 
 ## Probable Connections to MBTI
 
@@ -416,18 +404,21 @@ What mainly differentiates the wings from each other, is how they approach the c
 > [!caution] Disclaimer
 > The typing of the characters displayed here are based on personal opinion. They are in no way representative of what the writers may have originally intended.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Misato-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Makima-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Misa-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Wilson-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Asami-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_2_Emma-1.svg" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-06-28-e2_MisatoKatsuragi-1.png|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_Makima-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_Misa-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_Wilson-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_Asami-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_2_Emma-1.svg|700]]
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>

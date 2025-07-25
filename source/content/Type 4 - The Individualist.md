@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e4
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e4
 links: 
 aliases:
   - e4
   - Type 4
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
  > [!quote] Sylvia Plath
@@ -59,9 +61,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Fours deal with their main emotion of **Shame** and core issue of **Envy**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_234_Triad-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_234_Triad-1.svg|300]]
 
 - **Core Question:** _“With who am I in a relationship of some sorts, and what quality does this relationship have?”_
     - **Issue:** not be seen, loved enough or not being cared for emotionally
@@ -81,9 +81,7 @@ All Heart types (Types Two, Three & Four) depend on their emotional intelligenc
 
 > [!tip] Describes how Fours get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_459_Horney-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_459_Horney-1.svg|300]]
 
 - introspective, self-aware, and emotionally deep
 - withdraw not to avoid life, but to find meaning, process their inner world, or protect their sensitivity
@@ -105,9 +103,7 @@ Fours prefer to resolve conflict or tension by going inward rather than pushing 
 
 > [!tip] Describes how Fours deal with outer conflict in general.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_468_Harmony-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_468_Harmony-1.svg|300]]
 
 Fours belong to the Reactive (or “Emotional Realness”) group - types who respond to conflict with emotional depth, authenticity, and a desire for attunement. When tensions arise, Fours don’t minimize or dismiss them - they express their feelings and expect others to meet them there.
 
@@ -128,8 +124,8 @@ While this reactivity can deepen emotional bonds when others respond with presen
 
 > [!tip] How Fours see the world, and what they expect from relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_147_Object-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e147_object.svg" width="300" />
 </div>
 
 - often feel there is something deeply missing - in themselves, others, or the world
@@ -160,9 +156,7 @@ The Four offers the “only” thing they feel truly defines them: their inner w
 
 > [!tip] Fours become _objective_ and _principled_, like Ones.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_4_Integration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_4_Integration-1.svg|300]]
 
 - **become more disciplined** and focused on doing what’s right, rather than just what feels authentic to them
     - they develop a strong sense of responsibility, balance, and fairness
@@ -178,9 +172,7 @@ The Four offers the “only” thing they feel truly defines them: their inner w
 
 > [!tip] Fours become _over-involved_ and _clinging_, like Twos.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_4_Disintegration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_4_Disintegration-1.svg|300]]
 
 - when under stress, Fours can become **excessively focused on the needs of others**, losing sight of their own emotional needs
     - they may become overly dependent on others’ validation to feel valued or worthy
@@ -326,8 +318,6 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 > [!info] Focuses on our needs for material supplies and security, including food, warmth and family relations.
 
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e1, e3 or e7</mark>
-
 > "My feelings are too much for the world to bear."
 
 - **Countertype:**
@@ -339,11 +329,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - want to connect with people
 - driven to help others, to distract from their own pain
 
+⟶ This Four may resemble a One, Three or Seven, because they suppress their emotions and focus on endurance and achievement.
+
 ### so - The Outsider
 
 > [!info] Focuses on our needs for belonging and membership within the larger group and community.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">”Classic” e4!</mark>
 
 > "Nobody gives me an extra chance."
 
@@ -356,11 +346,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - can be overly sensitive, deeply connected to their own emotional world
 - want to be understood and forgiven for their "issues", loved unconditionally
 
+⟶ This is the “classic” Four!
+
 ### sx - The Firebrand
 
 > [!info] Focuses on our intimate relationships & friendships, as well as the vitality of our life force.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e8</mark>
 
 > "Why does everything have to be an argument?"
 
@@ -371,6 +361,8 @@ What mainly differentiates the wings from each other, is how they approach the c
 - easily offended, people have to walk on eggshells around them or avoid them entirely
 - most likely to confront people, can find themselves in a negative spiral after blowing up
     - aggressively shameless
+
+⟶ This Four may resemble an Eight, due to dealing with their pain by expression of anger and confrontation.
 
 ### Blind Spot
 
@@ -383,16 +375,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Practice positive affirmations**
 	Fours are prone to negative self-talk. By focusing your mind on positive thoughts, you can develop a kinder, more positive self-image and mindset.
-
+	
 2. **View yourself from another person’s perspective**
 	Keep in mind that your feelings, though valid, are subjective. Emotions are not all you are, but a part of who you are. Try to view yourself more objectively, specifically looking at your positive traits and accomplishments.
-
+	
 3. **Consider the ways in which you are similar to those around you**
 	Fours focus their attention on how they’re different from others. Instead, look for ways to connect with others. What do you have in common? Doing this will help you form deeper relationships.
-
+	
 4. **Start small**
 	Fours may feel like they lack the confidence and discipline to get things done. If what you want to accomplish feels overwhelming, break it up into small, achievable steps.
-
+	
 5. **Learn to be open to constructive feedback - positive and negative**
 	It’s essential for Fours to get out of their heads and learn to accept feedback from the outer world. Understand that negative feedback isn’t an attack on who you are as a person. And positive feedback isn’t something to dismiss or devalue. There are important lessons to be learned from constructive feedback.
 
@@ -402,9 +394,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_4_TraitLab-1.png" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_4_TraitLab-1.png|700]]
 
 ## Probable Connections to MBTI
 
@@ -413,18 +403,21 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Characters You May Know
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_4_Hitori_Gotou-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_4_Jinx-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_4_Squidward-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_4_Ted_Mosby-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_4_Zuko-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-05-11-Type_4_Hiro-1.svg" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_4_Hitori_Gotou-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_4_Jinx-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_4_Squidward-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_4_Ted_Mosby-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_4_Zuko-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-05-11-Type_4_Hiro-1.svg|700]]
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>

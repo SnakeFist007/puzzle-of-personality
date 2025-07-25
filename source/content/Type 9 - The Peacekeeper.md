@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e9
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e9
 links: 
 aliases:
   - e9
   - Type 9
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
  > [!quote] Savoyard Proverb
@@ -62,8 +64,8 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Nines deal with their main emotion of **Anger** and core issue of **Sloth**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_189_Triad-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e189_triad.svg" width="300" />
 </div>
 
 - **Core Question:** _“Who am I, in contrast to you, and what is the space that belongs to me?”_
@@ -85,9 +87,7 @@ All Body types (Types Eight, Nine and One) depend on their instinctual intellige
 
 > [!tip] Describes how Nines get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_459_Horney-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_459_Horney-1.svg|300]]
 
 - easygoing, receptive, and tend to move at their own pace
 - withdraw not to gain attention or control, but to maintain internal stability and avoid pressure
@@ -109,9 +109,7 @@ Nines resist being pushed or controlled by quietly refusing to engage - a passiv
 
 > [!tip] Describes how Nines deal with outer conflict in general.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_279_Harmony-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_279_Harmony-1.svg|300]]
 
 The silver lining is what these types focus upon. When the going gets tough, the Positive Outlook types bring our attention to what is still going right and how the problem may not be that bad.
 
@@ -134,9 +132,7 @@ When overused, their positive outlook becomes a form of numbing - a way to avoid
 
 > [!tip] How Nines see the world, and what they expect from relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_369_Object-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_369_Object-1.svg|300]]
 
 - either feel overlooked or expect to be overlooked from the beginning:
     - _“my presence doesn’t really matter”_
@@ -166,9 +162,7 @@ The Nine offers the “only” gift they feel won’t disrupt anything: their pe
 
 > [!tip] Nines become _self-developing_ and _energetic_, like Threes.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_9_Integration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_9_Integration-1.svg|300]]
 
 - biggest obstacle to their self-actualization is their tendency towards inertia
 - will frequently encounter feelings of heaviness or sleepiness whenever they try to do something good for themselves
@@ -183,9 +177,7 @@ The Nine offers the “only” gift they feel won’t disrupt anything: their pe
 
 > [!tip] Nines become _anxious_ and _worried_, like Sixes.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_9_Disintegration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_9_Disintegration-1.svg|300]]
 
 - investing themselves in ideas or relationships that they believe will give them more security and stability
 - when worries and anxieties surface, Nines focus intensively on work and projects
@@ -298,8 +290,6 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 > [!info] Focuses on our needs for material supplies and security, including food, warmth and family relations.
 
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e8 or e7</mark>
-
 > "As long as I'm okay."
 
 - substitutes comfort and fun for what they should be getting in love from other
@@ -308,15 +298,15 @@ What mainly differentiates the wings from each other, is how they approach the c
 - find fullfilment in routines
 - simple in what they need
 - good at solving puzzles, see how various parts fit into the bigger picture
-- more okay being alone than other 9s
+- more okay being alone than other Nines
 - endure and persevere
 - would never percieve themselves as angry people, but are so deep down
+
+⟶ This Nine might appear similar to a Seven or an Eight, due to them prioritizing comfort and fun, showing endurance and hidden anger.
 
 ### so - The Mediator
 
 > [!info] Focuses on our needs for belonging and membership within the larger group and community.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e2 or e3</mark>
 
 > "I'm here for everyone."
 
@@ -329,11 +319,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - often drafted & pushed into leadership roles
 - can take burdens from others, but don't want to burden others
 
+⟶ This Nine might appear similar to a Two or a Three, working tirelessly for the group and taking on burdens.
+
 ### sx - The Echo
 
 > [!info] Focuses on our intimate relationships & friendships, as well as the vitality of our life force.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e4</mark>
 
 > "We're one."
 
@@ -346,6 +336,8 @@ What mainly differentiates the wings from each other, is how they approach the c
 - may lose the difference between their own and the people that they love, blending both sides together
 - might seem dishonest: not because they lie, but because they aren't as open as they need to be sometimes
 
+⟶ This Nine might appear similar to a Four, being on a quest to find themselves through connections with others.
+
 ### Blind Spot
 
 > [!warning] Blind Spots  
@@ -357,16 +349,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Pay attention to your wants and needs**
 	Nines get into the habit of forgetting themselves and going along with the wants and needs of other people. They fear that making things about them will lead to conflict or discomfort. But by repressing your desires, you’re limiting your potential for growth. Spend time reflecting on your thoughts and feelings without external input to better understand what you truly want.
-
+	
 2. **Listen to your body**
 	Nines are prone to neglecting their physical health in the same ways that they can neglect their mental health. Exercise and meditation can help you feel more in touch with your body and better able to understand what it needs to thrive.
-
+	
 3. **Learn to see the value in conflict**
 	Expressing yourself can lead to conflict, but it also leads to deeper and more meaningful relationships. Embrace opportunities to connect with people by sharing what you think and being open to disagreements.
-
+	
 4. **Practice being more direct and assertive**
 	If being direct and assertive in conversation feels intimidating to you, practice with the people you trust the most. You can work your way up to being more comfortable in asserting yourself in everyday conversations.
-
+	
 5. **Lean into adventure**
 	Nines value routine and are often uncomfortable with change. Challenge your resistance to change by exploring the ways in which you are in control of your life. Consider ways that you can step outside of your comfort zone and be more adventurous.
 
@@ -376,9 +368,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_9_TraitLab-1.png" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_9_TraitLab-1.png|700]]
 
 ## Probable Connection to MBTI
 
@@ -387,18 +377,21 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Characters You May Know
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_9_Annie_Leonhart-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_9_Maxine_Caulfield-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-05-11-Type_9-Denji-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_9_Harry_Potter-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_9_Rei_Ayanami-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_9_Shigeo_Kageyama-1.svg" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_9_Annie_Leonhart-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_9_Maxine_Caulfield-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-05-11-Type_9-Denji-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_9_Harry_Potter-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_9_Rei_Ayanami-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_9_Shigeo_Kageyama-1.svg|700]]
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>

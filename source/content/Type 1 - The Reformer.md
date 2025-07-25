@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e1
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e1
 links: 
 aliases:
   - e1
   - Type 1
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
 > [!quote] Salvador Dali
@@ -59,8 +61,8 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Ones deal with their main emotion of **Anger** and core issue of **Wrath**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_189_Triad-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e189_triad.svg" width="300" />
 </div>
 
 - **Core Question:** _“Who am I, in contrast to you, and what is the space that belongs to me?”_
@@ -81,8 +83,8 @@ All Body types (Types Eight, Nine and One) depend on their instinctual intellige
 
 > [!tip] Describes how Ones get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_126_Horney-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e126_horny.svg" width="300" />
 </div>
 
 - responsible, dedicated and want to do what's expected of them
@@ -106,8 +108,8 @@ Ones will do what they believe is right, even if it means sacrificing their comf
 
 > [!tip] Describes how Ones deal with outer conflict in general.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_135_Harmony-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e135_harmony.svg" width="300" />
 </div>
 
 These types focus on logic, principles, and efficiency to solve problems. When challenges arise, the Competency types stay objective, rational, and structured, believing that problems are best addressed with clear thinking and effective solutions.
@@ -130,8 +132,8 @@ Ones also have difficulties admitting to personal imperfections:
 
 > [!tip] How Ones see the world, and what they expect from relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_147_Object-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e147_object.svg" width="300" />
 </div>
 
 - either feel inadequate or expect criticism from the start:
@@ -162,8 +164,8 @@ The One offers the “only” thing they can fully control: their principles. Th
 
 > [!tip] Ones become _spontaneous_ and _joyful_, like Sevens.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_Integration-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/e1_int.svg" width="300" />
 </div>
 
 - become more spontaneous and joyful as they integrate, embracing lightheartedness and openness
@@ -179,8 +181,8 @@ The One offers the “only” thing they can fully control: their principles. Th
 
 > [!tip] Ones become _moody_ and _irrational_, like Fours.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_Disintegration-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/e1_dis.svg" width="300" />
 </div>
 
 - Ones become more moody and irrational, taking on the emotional intensity of Fours when under stress
@@ -340,7 +342,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 	- sensitive to criticism, want to be safe from blame
 - incredible attention to detail, may micro-manage and overengineer things
 
-⟶ This version of One may resemble 6, due to their humility, helpfulness, and worry.
+⟶ This One may resemble a Six, due to their humility, helpfulness, and worry.
 
 ### so - The Lawmaker
 
@@ -353,7 +355,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 - adopts a teacher-like, know-it-all mentality
 - see themselves as "the owner of the truth", leading to rigidity and a lack of adaptability
 
-⟶ This One may resemble 5 in their detachment or sense of authority.
+⟶ This One may resemble a Five in their detachment or sense of authority.
 
 ### sx - The Evangelist
 
@@ -367,7 +369,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 	- may seem hypocritical, preach water but drink wine
 - appears more entitled and intrusive to other people's lives
 
-⟶ This version of One may resemble 8 or 4 due to their intensity, boldness, and deep emotional investment.
+⟶ This One may resemble an Eight or a Four due to their intensity, boldness, and deep emotional investment.
 
 ### Blind Spot
 
@@ -380,16 +382,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Be kinder to yourself**
 	In the extreme or under stress, Type Ones can be so hard on themselves that they can make themselves miserable. Easing up on your inner negative critic is something to consider. Think about how a close friend would feel if you levelled that same critique at them.
-
+	
 2. **Recognize that not everyone is where you are**
 	Ones can be great colleagues, teachers, partners and friends, but often their own high-standards can make them seem judgmental, overly rigid, and harpie-like to others! Learning to accept people as they are, and to pause (or at least censor yourself) before getting overly preachy or nitpicky is important.
-
+	
 3. **Be flexible and open to outside perspectives**
 	Bringing moral clarity and strong principles to your work and life is great -- and has empowered many Type Ones who have led major social movements (like Mahatma Gandhi and Nelson Mandela). However, staying humble and grounded in living those truths (vs. just preaching them), and understanding that people may bring other views to the table, is critical to maintaining balance.
-
+	
 4. **Establish a healthy work/life balance**
 	Ones tend to be driven workaholics with extraordinary focus, which can lead to much career success - as demonstrated by multiple Type Ones who have reached the heights of their own fields (from Michelle Obama, to Captain “Sully” Sullenberger, to Tina Fey). But being mindful of the need to balance all those late office nights with time for relationships, family, health, and your own overall wellness is key.
-
+	
 5. **Lighten’ up!**
 	This may seem “easier said than done,” but the One's path to growth lies in learning to not take everything in life so seriously. Look for the silliness in yourself and the world around you, and take time to relax and be present.
 
@@ -399,30 +401,41 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_TraitLab-1.png" width="700" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/e1_traitlab.png" width="700" />
 </div>
 
 ## Probable Connections to MBTI
 
-- [[../Myers-Briggs Type Indicator/ISTJ - The Logistician|ISTJ - The Logistician]]
-- [[../Myers-Briggs Type Indicator/ESTJ - The Executive|ESTJ - The Executive]]
-- [[../Myers-Briggs Type Indicator/ENTJ - The Commander|ENTJ - The Commander]]
+- ISTJ - The Logistician
+- ESTJ - The Executive
+- ENTJ - The Commander
 
 ## Characters You May Know
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_2B-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_Aki_Hayakawa-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_Erwin_Smith-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_Haku-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_Hermione_Granger-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_1_Light_Yagami-1.svg" width="700" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/2b.png" width="700" />
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/shinobu_kocho.png" width="700" />
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/aki_hayakawa.png" width="700" />
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/light_yagami.png" width="700" />
+</div>
+
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/erwin_smith.png" width="700" />
 </div>
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>

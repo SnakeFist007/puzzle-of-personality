@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e7
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e7
 links: 
 aliases:
   - e7
   - Type 7
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
  > [!quote] Tom Robbins
@@ -58,9 +60,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Sevens deal with their main emotion of **Fear** and core issue of **Gluttony**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_567_Triad-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_567_Triad-1.svg|300]]
 
 - **Core Question:** _“Where am I, and is it safe for me here?”_
     - **Issue:** not to be secure enough, or being disoriented
@@ -81,9 +81,7 @@ For Sevens, fear is a hidden companion. They may not show it outwardly, but bene
 
 > [!tip] Describes how Sevens get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_378_Horney-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_378_Horney-1.svg|300]]
 
 - energetic, optimistic, and constantly seeking new experiences
 - move _against_ limitations, seeking to break free from anything that feels restricting or confining
@@ -106,9 +104,7 @@ Sevens are motivated by a need for freedom, fun, and variety. When they feel con
 
 > [!tip] Describes how Sevens deal with outer conflict in general.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_279_Harmony-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_279_Harmony-1.svg|300]]
 
 The silver lining is what these types focus upon. When the going gets tough, the Positive Outlook types bring our attention to what is still going right and how the problem may not be that bad.
 
@@ -127,8 +123,8 @@ While this positive outlook can be uplifting and energizing to others, it is imp
 
 > [!tip] How Sevens see the world, and what they expect from relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_147_Object-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e147_object.svg" width="300" />
 </div>
 
 - Sevens view the world as a place full of endless possibilities and opportunities for growth, fun, and adventure
@@ -160,9 +156,7 @@ Sevens often see relationships through a lens of idealism, expecting them to be 
 
 > [!tip] Sevens become _focused_ and _fascinated_, like Fives.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_Integration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_Integration-1.svg|300]]
 
 - **become more introspective** and able to concentrate deeply on a single idea or project without getting distracted
     - they develop the ability to be still and focused, valuing solitude and reflection over constant activity and stimulation
@@ -175,9 +169,7 @@ Sevens often see relationships through a lens of idealism, expecting them to be 
 
 > [!tip] Sevens become _perfectionistic_ and _critical_, like Ones.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_Disintegration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_Disintegration-1.svg|300]]
 
 - **when under stress, Sevens can become overly rigid** and perfectionistic, constantly trying to control their environment in an attempt to avoid feeling limited or trapped
     - they may become critical of themselves and others, focusing on what is wrong or what needs fixing rather than embracing the present moment
@@ -313,8 +305,6 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 > [!info] Focuses on our needs for material supplies and security, including food, warmth and family relations.
 
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like </mark>
-
 > "I take care of myself."
 
 - determined, energetic, and practical people who work hard to ensure their basic needs are met
@@ -323,11 +313,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - if their needs are not quickly met, they can feel impatient and panicky
 - can also be extremely thoughtless and relentless in pursuit of security needs
 
+⟶ This Seven may resemble a Three, because they are determined, ambitious and work hard to meet their needs and achieve security.
+
 ### so - The Enthusiast
 
 > [!info] Focuses on our needs for belonging and membership within the larger group and community.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like </mark>
 
 > "I want to make a difference."
 
@@ -338,11 +328,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - are always looking for a more stimulating setting and resent authority
 - friendly and engaging, but easily feel trapped and may cancel appointments or dates with little notice
 
+⟶ This Seven may resemble a Two, due to their focus on social causes and making a difference for others.
+
 ### sx - The Firefly
 
 > [!info] Focuses on our intimate relationships & friendships, as well as the vitality of our life force.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like </mark>
 
 > "Let’s fall in love with life!"
 
@@ -352,6 +342,8 @@ What mainly differentiates the wings from each other, is how they approach the c
 - revel in romance and mutual discovery
 - ready to explore other possibilities as soon as the feelings become familiar
 - may involve themselves in dangerous love affairs and become thrill-seekers
+
+⟶ This Seven may resemble a Four, due to them seeking emotional heights of new connections and experiences.
 
 ### Blind Spot
 
@@ -364,16 +356,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Slow down and experience the moment**
 	Sevens like to stay busy to distract themselves from feelings of discomfort. Because of this, they may not allow enough time to relax and be present.
-
+	
 2. **Learn to see the value of pain**
 	Sevens grow when they learn to see that there is beauty in darkness. Painful emotions aren’t necessarily “bad.” When you feel the need to distract yourself from pain, stop and check in with yourself and how you actually feel.
-
+	
 3. **Be willing to go deep**
 	When Sevens share their authentic self with the world, they can form deep and meaningful relationships. But if you aren’t willing to go below the surface, then your relationships will never be more than surface-level. Allow yourself to be vulnerable and have hard conversations when necessary.
-
+	
 4. **Get comfortable with solitude**
 	Sevens tend to be extraverted and attracted to experiences that offer large amounts of sensory stimulation. But the more time you spend with yourself, the more self-aware you become.
-
+	
 5. **Practice active listening**
 	Rather than listening to other people with intent to respond, practice listening to understand. Not every statement needs an immediate response. Take time to consider what other people are saying and focus on crafting more thoughtful and empathetic responses.
 
@@ -383,9 +375,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_TraitLab-1.png" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_TraitLab-1.png|700]]
 
 ## Probable Connections to MBTI
 
@@ -394,18 +384,21 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Characters You May Know
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_9S-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_Hange_Zoe-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_Himeno-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_Lucifer_Morningstar-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_Saul_Goodman-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_7_Yae_Miko-1.svg" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_9S-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_Hange_Zoe-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_Himeno-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_Lucifer_Morningstar-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_Saul_Goodman-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_7_Yae_Miko-1.svg|700]]
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>

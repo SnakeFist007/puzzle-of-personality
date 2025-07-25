@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e8
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e8
 links: 
 aliases:
   - e8
   - Type 8
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
  > [!quote] Muhammed Ali
@@ -56,8 +58,8 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Eights deal with their main emotion of **Anger** and core issue of **Lust**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_189_Triad-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e189_triad.svg" width="300" />
 </div>
 
 - **Core Question:** _“Who am I, in contrast to you, and what is the space that belongs to me?”_
@@ -80,9 +82,7 @@ For Eights, anger is not hidden or denied - it’s a vital signal that something
 
 > [!tip] Describes how Eights get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_378_Horney-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_378_Horney-1.svg|300]]
 
 - direct, self-confident, and action-oriented
 - move _against_ obstacles and take charge of situations
@@ -105,9 +105,7 @@ Eights meet life head-on. They resolve conflict by confronting it directly, ofte
 
 > [!tip] Describes how Eights deal with outer conflict in general.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_468_Harmony-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_468_Harmony-1.svg|300]]
 
 Eights belong to the Reactive group, which means they respond to conflict with intensity, immediacy, and directness. When outer conflict arises, Eights don't hold back - they meet it head-on and are often quick to challenge or confront whatever feels threatening to their autonomy, values, or integrity.
 
@@ -129,9 +127,7 @@ While this reactivity can protect them and others in dangerous situations, it ca
 
 > [!tip] How Eights see the world, and what they expect from relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_258_Object-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_258_Object-1.svg|300]]
 
 - see the world as a place where power dynamics are constantly at play
     - _“I must remain strong to protect myself and those I care about”_
@@ -162,9 +158,7 @@ For Eights, relationships must allow space for independence and strength. They n
 
 > [!tip] Eights become _open-hearted_ and _caring_, like Twos.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_Integration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_Integration-1.svg|300]]
 
 - **Eights learn to soften their approach**, becoming more vulnerable and open-hearted, embracing the emotional needs of others and themselves
     - they recognize the importance of compassion and empathy, and they begin to show care and affection in a more genuine way
@@ -177,9 +171,7 @@ For Eights, relationships must allow space for independence and strength. They n
 
 > [!tip] Eights become _secretive_ and _fearful_, like Fives.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_Disintegration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_Disintegration-1.svg|300]]
 
 - **Eights under stress can withdraw emotionally**, becoming more secretive and distant, avoiding close connections or vulnerability
     - they may retreat into their inner world and become absorbed in their own thoughts, losing touch with their external environment and relationships
@@ -319,8 +311,6 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 > [!info] Focuses on our needs for material supplies and security, including food, warmth and family relations.
 
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like </mark>
-
 > "I take care of mine."
 
 - focused on practical matters
@@ -330,11 +320,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - may also become bullies and thieves, acting selfishly without regard for others
     - undermine or attack others to protect interests and material security
 
+⟶ This Eight may resemble a Six, because they focus on protecting their loved ones, becoming worriers about their possesions and investments.
+
 ### so - The Comrade
 
 > [!info] Focuses on our needs for belonging and membership within the larger group and community.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like </mark>
 
 > "Loyalty is everything."
 
@@ -344,11 +334,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - relax by hosting social events, wining and dining friends, and sharing adventures
 - enjoy debates about politics, sports, or religion
 
+⟶ This Eight may resemble a Two, due to their priority on bonds with others, hosting events and building upon these relationships.
+
 ### sx - The Heartfire
 
 > [!info] Focuses on our intimate relationships & friendships, as well as the vitality of our life force.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like </mark>
 
 > "You’re mine."
 
@@ -359,6 +349,8 @@ What mainly differentiates the wings from each other, is how they approach the c
 - stimulated by a good argument and can be impatient with niceness.
     - may be competitive for the thrill of it.
 - may demand loyalty and consistency, and try to mold others into shapes that fit their needs and plans
+
+⟶ This Eight may resemble a Four, because they are quietly intense and charismatic, passionate about their loved ones, and view relationships as deep emotional struggles.
 
 ### Blind Spot
 
@@ -371,16 +363,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Check in with what you’re thinking and feeling before making decisions**
 	As a body-based type, Eights act instinctively on their emotions, which can result in impulsive outbursts or decisions that aren’t fully thought through. When you feel the impulse to react, take time to sort through your thoughts and feelings before taking action.
-
+	
 2. **Learn that vulnerability is strength, not weakness**
 	Eights see their more raw and vulnerable emotions as weak, but growth happens when they learn to see the value in these aspects of their personality. Vulnerability allows Eights to connect more deeply with others, and grow into their highest self.
-
+	
 3. **Discover your limits**
 	Energetic Eights frequently push themselves to their limits, unaware they are doing so. This may cause them to unknowingly push other people to their limits as well. Pay more attention to your mental and emotional states, and allow yourself time to rest and recover when needed.
-
+	
 4. **Make an effort to give love to and receive love from others more openly**
 	Eights tend to view other people as either with them or against them. This can make it difficult to form solid, authentic relationships. Be open to giving and receiving love more freely. Not everything has to be earned.
-
+	
 5. **Allow other people to take the lead (sometimes)**
 	With their commanding presence and direct approach, the Eight makes a great leader. But there are times when you need to step back and allow someone else to step up to the plate. It’s important for Eights to learn when it’s appropriate to let other people take charge.
 
@@ -390,9 +382,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_TraitLab-1.png" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_TraitLab-1.png|700]]
 
 ## Probable Connections to MBTI
 
@@ -401,18 +391,21 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Characters You May Know
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_Korra-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_Power-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_Ymir-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_Dean_Winchester-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_Kuvira-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_8_Maeve_Wiley-1.svg" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_Korra-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_Power-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_Ymir-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_Dean_Winchester-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_Kuvira-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_8_Maeve_Wiley-1.svg|700]]
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>

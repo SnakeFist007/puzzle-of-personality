@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e3
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e3
 links: 
 aliases:
   - e3
   - Type 3
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
  > [!quote] Christine Feehan
@@ -57,9 +59,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Threes deal with their main emotion of **Shame** and core issue of **Deceit**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_234_Triad-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_234_Triad-1.svg|300]]
 
 - **Core Question:** _“Who do I need to become to be valued and respected?”_
     - **Issue:** not be seen, loved enough or not being cared for emotionally
@@ -78,9 +78,7 @@ All Heart types (Types Two, Three & Four) depend on their emotional intelligenc
 
 > [!tip] Describes how Threes get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_378_Horney-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_378_Horney-1.svg|300]]
 
 - efficient, ambitious, and driven to succeed
 - will do whatever it takes to reach their goals, even if it means suppressing their true feelings or personal needs
@@ -103,8 +101,8 @@ Threes will do what they believe will lead to success, even if it means sacrific
 
 > [!tip] Describes how Threes deal with outer conflict in general.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_135_Harmony-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e135_harmony.svg" width="300" />
 </div>
 
 The task at hand is what these types focus upon. When the going gets tough, the Competency Types direct attention to efficiency, strategy, and finding the most effective solution. They believe that problems should be solved through competence, hard work, and rational decision-making.
@@ -126,9 +124,7 @@ Threes also have difficulties admitting to personal struggles:
 
 > [!tip] How Threes see the world, and what they expect from relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_369_Object-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_369_Object-1.svg|300]]
 
 - either **feel unrecognized** or expect to be **overlooked** from the start:
     - _“If I don’t prove my worth, I will be ignored.”_
@@ -156,9 +152,7 @@ May have a tendency to **overperform and overachieve** before others can ever do
 
 > [!tip] Threes become _cooperatve_ and _committed to others_, like Sixes.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_Integration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_Integration-1.svg|300]]
 
 - become **actualized and truly authentic** by learning to value themselves beyond external success.
     - begin to recognize that **who they are is enough**, even without achievements, status, or admiration.
@@ -174,9 +168,7 @@ At their best, Threes integrate the virtues of Sixes, fostering **genuine connec
 
 > [!tip] Threes become _disengaged_ and _apathetic_, like Nines.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_Disintegration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_Disintegration-1.svg|300]]
 
 - become increasingly **withdrawn and detached**, avoiding confrontation while privately feeling overwhelmed and insecure.
     - their usual charm and adaptability **give way to cynicism and passive-aggressiveness** as they lose confidence in their ability to maintain their image.
@@ -331,7 +323,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 - workaholic: may become anxious when not working and may have difficulty maintaining intimate relationships
     - sacrifice relationships and health for job security and money
 
-⟶ This Three may resemble 1 or 6 due to their modesty, duty-focus, and anxiety around being “enough”.
+⟶ This Three may resemble a One or a Six due to their modesty, duty-focus, and anxiety around being “enough”.
 
 ### so - The Politician
 
@@ -358,7 +350,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 - can be seductive but often fear they won't be able to live up to the image they are projecting
 - possess a strong desire for intimacy, but fear deep emotional connection
 
-⟶ This Three may resemble 2 or 7, due to their emotional hunger and seductive expressiveness.
+⟶ This Three may resemble a Two or a Seven, due to their emotional hunger and seductive expressiveness.
 
 ### Blind Spot
 
@@ -371,16 +363,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Slow down!**
 	It can be easy for a Three to get so busy that they can miss what is right in front of them or take the present moment for granted. Take time to relax and appreciate the moment every once in a while. (Yes, that includes turning off your smartphone!)
-
+	
 2. **Practice active listening to connect more deeply with other people**
 	Threes can be so focused on how they are being perceived by other people, that they miss opportunities to connect with others more deeply. By developing active listening habits, Threes can form deeper bonds with others.
-
+	
 3. **Embrace vulnerability**
 	Vulnerability can be scary for a Three, because it means allowing other people to see who you truly are, not just the side of you that you want them to see. However, Threes grow when they learn how to embrace vulnerability and act in ways that are more authentic to themselves.
-
+	
 4. **Examine your thoughts and feelings**
 	Threes can get so caught up in their image and achievements that they ignore their own emotions. Take time to ask yourself how you really feel about something. Do your words and actions match up with how you feel?
-
+	
 5. **Practice mindfulness to be more present**
 	Threes are always on-the-go. Mindfulness practices like yoga and meditation can help you slow down and focus on the present. Non-competitive, single-player games can also help Threes focus on the moment without feeling the need to “win.”
 
@@ -390,9 +382,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_TraitLab-1.png" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_TraitLab-1.png|700]]
 
 ## Probable Connections to MBTI
 
@@ -401,18 +391,21 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Characters You May Know
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_Kim_Possible-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_Arataka_Reigen-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_Azula-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_Reiner_Braun-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_Ren_Yamai-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_3_Eugene_Krabs-1.svg" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_Kim_Possible-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_Arataka_Reigen-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_Azula-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_Reiner_Braun-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_Ren_Yamai-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_3_Eugene_Krabs-1.svg|700]]
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>

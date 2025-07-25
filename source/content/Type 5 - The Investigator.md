@@ -1,12 +1,14 @@
 ---
 tags:
-  - Typology/Enneagram
-  - Typology/Enneagram/e5
+  - Typologie/Enneagram
+  - Typologie/Enneagram/e5
 links: 
 aliases:
   - e5
   - Type 5
 cssclasses:
+  - center-images
+  - divider-style4
 ---
 
  > [!quote] Sherlock Holmes
@@ -61,9 +63,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Fives deal with their main emotion of **Fear** and core issue of **Stinginess**.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_567_Triad-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_567_Triad-1.svg|300]]
 
 - **Core Question:** _“Where am I, and is it safe for me here?”_
     - **Issue:** not to be secure enough, or being disoriented
@@ -83,9 +83,7 @@ All Head types (Types Five, Six and Seven) depend on their intellectual intellig
 
 > [!tip] Describes how Fives get what they want and how they resolve inner conflicts.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_459_Horney-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_459_Horney-1.svg|300]]
 
 - calm, introverted, and introspective
     - not overtly attention-seeking
@@ -104,8 +102,8 @@ They prefer to work and refine their ideas on their own, because in a team envir
 
 > [!tip] Describes how Fives deal with outer conflict in general.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_135_Harmony-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e135_harmony.svg" width="300" />
 </div>
 
 Fives can get into conflicts by being too detached, isolated, and provocative. They naturally detach themselves emotionally from the world to be objective. They believe that they have the mental resources to deal with problems. In conflict, Fives will want to withdraw and will think for a while before coming back with a solution, often to the irritation of others.
@@ -123,9 +121,7 @@ Fives feel that they can solve things by themselves, without relying on others. 
 
 > [!tip] How Fives see the world, and what they expect from relationships.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_258_Object-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_258_Object-1.svg|300]]
 
 - either feel rejected or expect rejection from the get-go:
     - _“others don't care about my needs”_
@@ -152,9 +148,7 @@ The Five offers the “only” gift it has left: their head. They focus on their
 
 > [!tip] Fives become _self-confident_ and _decisive_, like Eights.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_Integration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_Integration-1.svg|300]]
 
 - Integrating Fives grow by coming down out of their heads, into deeper felt contact with their vitality and physicality
     - usually results in intense anxiety for Fives, but only by staying grounded in the body they can feel the inner support to process long-surpressed feelings
@@ -168,9 +162,7 @@ The Five offers the “only” gift it has left: their head. They focus on their
 
 > [!tip] Fives become _hyperactive_ and _scattered_, like Sevens.
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_Disintegration-1.svg" width="300" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_Disintegration-1.svg|300]]
 
 - become restless and agitated, their minds speed up and they feel compelled to distract themselves from their fears
 - anxiety about finding a niche may cause them to become scattered in their pursuits
@@ -278,8 +270,6 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 > [!info] Focuses on our needs for material supplies and security, including food, warmth and family relations.
 
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e9</mark>
-
 > "I need some time to recharge…"
 
 - keeps people at a distance, uphold boundaries
@@ -292,11 +282,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - least likely type to venture into unknown places and doing new things
 - compartmentalize people into roles, go to people when that role is “needed”
 
+⟶ This Five may resemble a Nine, because they withdraw from engagement and avoid conflicts.
+
 ### so - The Professor
 
 > [!info] Focuses on our needs for belonging and membership within the larger group and community.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e6 or e1</mark>
 
 > "Someone that **knows**."
 
@@ -309,11 +299,11 @@ What mainly differentiates the wings from each other, is how they approach the c
 - can be heard to teach, due to them being a know-it-all
     - corrects the teacher because they know more than them
 
+⟶ This Five may resemble a Six or a One, due to their search for security through expertise and pursuit for mastery and ultimate meaning.
+
 ### sx - The Alchemist
 
 > [!info] Focuses on our intimate relationships & friendships, as well as the vitality of our life force.
-
-<mark style="background: #D2B3FFA6; color: #ffffff;">May seem like e4 or e6</mark>
 
 > "I’ve never told anyone this…"
 
@@ -324,6 +314,8 @@ What mainly differentiates the wings from each other, is how they approach the c
 - when romantically interested in someone, they can become extremely open and merged, more like Nines
     - seek the ultimate union with someone
     - when they feel unappreciated however, they can quickly become emotionally distant
+
+⟶ This Five may resemble a Four or a Six, due to their focus on finding an ideal (romantic) connection and expression of emotion.
 
 ### Blind Spot
 
@@ -336,16 +328,16 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 1. **Practice healthy hobbies that get you out of your head**
 	Fives may find it difficult to relax and enjoy the present moment. Running, dancing, yoga and other activities that get you moving and in touch with your body can help you unwind in a healthy way.
-
+	
 2. **It’s OK to ask for help**
 	They desire complete autonomy and seek to be self-sufficient. But you likely have people in your life who would love to help you, if you ever asked for it! Take note of moments when you have too much on your plate. Is there anyone who can help? Don’t be afraid to seek support when you need it.
-
+	
 3. **Step outside of your comfort zone**
 	Sometimes it’s the things that we desire the least that we need the most. When you get a chance to do something outside of your comfort zone (like attending a big social event), practice saying “yes” more often.
-
+	
 4. **Explore your emotions**
 	They use information and knowledge gathering as a way to avoid emotional discomfort. Challenge yourself to sit with your feelings and look into what you may be repressing. Try writing out how you feel and listing what actions you can take (other than ignoring) to deal with these emotions.
-
+	
 5. **Learn to accept outer world feedback**
 	They can get so deep into a rabbit hole that they close themselves off from any criticism or feedback from others. You may assume feedback is useless if you know more about a topic than someone else. But it’s important to stay open-minded and learn how to acknowledge and consider different perspectives.
 
@@ -355,9 +347,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_TraitLab-1.png" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_TraitLab-1.png|700]]
 
 ## Probable Connections to MBTI
 
@@ -366,18 +356,21 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Characters You May Know
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_House-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_Jinora-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_Kurisu_Makise-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_L-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_Ryo_Yamada-1.svg" width="700" />
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Type_5_Sherlock-1.svg" width="700" />
-</div>
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_House-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_Jinora-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_Kurisu_Makise-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_L-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_Ryo_Yamada-1.svg|700]]
+
+![[../../99 - Meta/Attachments/2025-04-08-Type_5_Sherlock-1.svg|700]]
 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>
