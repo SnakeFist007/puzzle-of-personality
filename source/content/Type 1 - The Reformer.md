@@ -84,7 +84,7 @@ All Body types (Types Eight, Nine and One) depend on their instinctual intellige
 > [!tip] Describes how Ones get what they want and how they resolve inner conflicts.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e126_horny.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e126_horney.svg" width="300" />
 </div>
 
 - responsible, dedicated and want to do what's expected of them
@@ -109,7 +109,7 @@ Ones will do what they believe is right, even if it means sacrificing their comf
 > [!tip] Describes how Ones deal with outer conflict in general.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e135_harmony.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e135_harmony.svg" width="300" />
 </div>
 
 These types focus on logic, principles, and efficiency to solve problems. When challenges arise, the Competency types stay objective, rational, and structured, believing that problems are best addressed with clear thinking and effective solutions.
@@ -133,7 +133,7 @@ Ones also have difficulties admitting to personal imperfections:
 > [!tip] How Ones see the world, and what they expect from relationships.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e147_object.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e147_object.svg" width="300" />
 </div>
 
 - either feel inadequate or expect criticism from the start:
