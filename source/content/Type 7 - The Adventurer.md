@@ -60,7 +60,9 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Sevens deal with their main emotion of **Fear** and core issue of **Gluttony**.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_567_Triad-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e567_triad.svg" width="300" />
+</div>
 
 - **Core Question:** _“Where am I, and is it safe for me here?”_
     - **Issue:** not to be secure enough, or being disoriented
@@ -106,7 +108,9 @@ Sevens are motivated by a need for freedom, fun, and variety. When they feel con
 
 > [!tip] Describes how Sevens deal with outer conflict in general.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_279_Harmony-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e279_harmony.svg" width="300" />
+</div>
 
 The silver lining is what these types focus upon. When the going gets tough, the Positive Outlook types bring our attention to what is still going right and how the problem may not be that bad.
 
@@ -125,8 +129,8 @@ While this positive outlook can be uplifting and energizing to others, it is imp
 
 > [!tip] How Sevens see the world, and what they expect from relationships.
 
-<div>
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e147_object.svg" width="300" />
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e147_object.svg" width="300" />
 </div>
 
 - Sevens view the world as a place full of endless possibilities and opportunities for growth, fun, and adventure
@@ -158,7 +162,9 @@ Sevens often see relationships through a lens of idealism, expecting them to be 
 
 > [!tip] Sevens become _focused_ and _fascinated_, like Fives.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_Integration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e7/e7_int.svg" width="300" />
+</div>
 
 - **become more introspective** and able to concentrate deeply on a single idea or project without getting distracted
     - they develop the ability to be still and focused, valuing solitude and reflection over constant activity and stimulation
@@ -171,7 +177,9 @@ Sevens often see relationships through a lens of idealism, expecting them to be 
 
 > [!tip] Sevens become _perfectionistic_ and _critical_, like Ones.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_Disintegration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e7/e7_dis.svg" width="300" />
+</div>
 
 - **when under stress, Sevens can become overly rigid** and perfectionistic, constantly trying to control their environment in an attempt to avoid feeling limited or trapped
     - they may become critical of themselves and others, focusing on what is wrong or what needs fixing rather than embracing the present moment
@@ -377,26 +385,28 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_TraitLab-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e7/e7_traitlab.png" width="700" />
+</div>
 
 ## Probable Connections to MBTI
 
-- [[../Myers-Briggs Type Indicator/ENFP - The Campaigner|ENFP - The Campaigner]]
-- [[../Myers-Briggs Type Indicator/ESFP - The Entertainer|ESFP - The Entertainer]]
+- ENFP - The Campaigner
+- ESFP - The Entertainer
 
 ## Characters You May Know
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_9S-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e7/hange_zoe.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_Hange_Zoe-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e7/9s.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_Himeno-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_Lucifer_Morningstar-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_Saul_Goodman-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_7_Yae_Miko-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e7/himeno.png" width="700" />
+</div>
 
 ---
 _SnakeFist, 2022-2025_
