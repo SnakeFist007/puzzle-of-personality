@@ -57,7 +57,7 @@ The “rule of three” can be found a lot inside the Enneagram, meaning that ty
 
 If we connect the corresponding types with each other, we get this:
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads.svg" width="300" />
 </div>
 
@@ -88,7 +88,7 @@ In both cases the connecting lines highlight how each type can possess indispens
 
 If we connect the corresponding types with each other, we get this:
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/enneagram.svg" width="300" />
 </div>
 
@@ -100,7 +100,7 @@ This is what you see when you look at the illustration of the Enneagram!
 
 Each Enneagram type is flanked by two neighboring types, which are known as its **wings**. The dominant type may be influenced by one of these adjacent types, resulting in a more nuanced personality expression.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/wings.svg" width="300" />
 </div>
 
