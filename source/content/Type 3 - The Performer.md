@@ -106,7 +106,7 @@ Threes will do what they believe will lead to success, even if it means sacrific
 > [!tip] Describes how Threes deal with outer conflict in general.
 
 <div>
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e135_harmony.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e135_harmony.svg" width="300" />
 </div>
 
 The task at hand is what these types focus upon. When the going gets tough, the Competency Types direct attention to efficiency, strategy, and finding the most effective solution. They believe that problems should be solved through competence, hard work, and rational decision-making.
