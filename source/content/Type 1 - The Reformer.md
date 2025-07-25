@@ -61,7 +61,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Ones deal with their main emotion of **Anger** and core issue of **Wrath**.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e189_triad.svg" width="300" />
 </div>
 
@@ -83,7 +83,7 @@ All Body types (Types Eight, Nine and One) depend on their instinctual intellige
 
 > [!tip] Describes how Ones get what they want and how they resolve inner conflicts.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e126_horny.svg" width="300" />
 </div>
 
@@ -108,7 +108,7 @@ Ones will do what they believe is right, even if it means sacrificing their comf
 
 > [!tip] Describes how Ones deal with outer conflict in general.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e135_harmony.svg" width="300" />
 </div>
 
@@ -132,7 +132,7 @@ Ones also have difficulties admitting to personal imperfections:
 
 > [!tip] How Ones see the world, and what they expect from relationships.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e147_object.svg" width="300" />
 </div>
 
@@ -164,7 +164,7 @@ The One offers the “only” thing they can fully control: their principles. Th
 
 > [!tip] Ones become _spontaneous_ and _joyful_, like Sevens.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/e1_int.svg" width="300" />
 </div>
 
@@ -181,7 +181,7 @@ The One offers the “only” thing they can fully control: their principles. Th
 
 > [!tip] Ones become _moody_ and _irrational_, like Fours.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/e1_dis.svg" width="300" />
 </div>
 
@@ -401,7 +401,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/e1_traitlab.png" width="700" />
 </div>
 
@@ -413,23 +413,23 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Characters You May Know
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/2b.png" width="700" />
 </div>
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/shinobu_kocho.png" width="700" />
 </div>
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/aki_hayakawa.png" width="700" />
 </div>
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/light_yagami.png" width="700" />
 </div>
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e1/erwin_smith.png" width="700" />
 </div>
 

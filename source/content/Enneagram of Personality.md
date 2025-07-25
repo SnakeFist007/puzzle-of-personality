@@ -25,21 +25,21 @@ The Enneagram in itself is a tool for personal growth and goes beyond classical 
 
 ### Heart Types
 
-- [[Enneagram of Personality/Type 2 - The Helper|Type 2 - The Helper]]
-- [[Enneagram of Personality/Type 3 - The Performer|Type 3 - The Performer]]
-- [[Enneagram of Personality/Type 4 - The Individualist|Type 4 - The Individualist]]
+- [[Type 2 - The Helper]]
+- [[Type 3 - The Performer]]
+- [[Type 4 - The Individualist]]
 
 ### Head Types
 
-- [[Enneagram of Personality/Type 5 - The Investigator|Type 5 - The Investigator]]
-- [[Enneagram of Personality/Type 6 - The Loyalist|Type 6 - The Loyalist]]
-- [[Enneagram of Personality/Type 7 - The Adventurer|Type 7 - The Adventurer]]
+- [[Type 5 - The Investigator]]
+- [[Type 6 - The Loyalist]]
+- [[Type 7 - The Adventurer]]
 
 ### Body Types
 
-- [[Enneagram of Personality/Type 8 - The Challenger|Type 8 - The Challenger]]
-- [[Enneagram of Personality/Type 9 - The Peacekeeper|Type 9 - The Peacekeeper]]
-- [[Enneagram of Personality/Type 1 - The Reformer|Type 1 - The Reformer]]
+- [[Type 8 - The Challenger]]
+- [[Type 9 - The Peacekeeper]]
+- [[Type 1 - The Reformer]]
 
 # The Basics
 
