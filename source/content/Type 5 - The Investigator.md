@@ -63,7 +63,9 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Fives deal with their main emotion of **Fear** and core issue of **Stinginess**.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_567_Triad-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triad/e567_triad.svg" width="300" />
+</div>
 
 - **Core Question:** _“Where am I, and is it safe for me here?”_
     - **Issue:** not to be secure enough, or being disoriented
@@ -123,7 +125,9 @@ Fives feel that they can solve things by themselves, without relying on others. 
 
 > [!tip] How Fives see the world, and what they expect from relationships.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_258_Object-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e258_object.svg" width="300" />
+</div>
 
 - either feel rejected or expect rejection from the get-go:
     - _“others don't care about my needs”_
@@ -150,7 +154,9 @@ The Five offers the “only” gift it has left: their head. They focus on their
 
 > [!tip] Fives become _self-confident_ and _decisive_, like Eights.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_Integration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e5/e5_int.svg" width="300" />
+</div>
 
 - Integrating Fives grow by coming down out of their heads, into deeper felt contact with their vitality and physicality
     - usually results in intense anxiety for Fives, but only by staying grounded in the body they can feel the inner support to process long-surpressed feelings
@@ -164,7 +170,9 @@ The Five offers the “only” gift it has left: their head. They focus on their
 
 > [!tip] Fives become _hyperactive_ and _scattered_, like Sevens.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_Disintegration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e5/e5_dis.svg" width="300" />
+</div>
 
 - become restless and agitated, their minds speed up and they feel compelled to distract themselves from their fears
 - anxiety about finding a niche may cause them to become scattered in their pursuits
@@ -349,26 +357,28 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_TraitLab-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e5/e5_traitlab.png" width="700" />
+</div>
 
 ## Probable Connections to MBTI
 
-- [[../Myers-Briggs Type Indicator/INFJ - The Advocate|INFJ - The Advocate]]
-- [[../Myers-Briggs Type Indicator/INTP - The Logician|INTP - The Logician]]
+- INFJ - The Advocate
+- INTP - The Logician
 
 ## Characters You May Know
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_House-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e5/jinora.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_Jinora-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e5/kurisu_makise.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_Kurisu_Makise-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_L-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_Ryo_Yamada-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_5_Sherlock-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e5/ryo_yamada.png" width="700" />
+</div>
 
 ---
 _SnakeFist, 2022-2025_
