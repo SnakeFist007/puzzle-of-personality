@@ -47,5 +47,5 @@ Powered by the [Quartz Obsidian Template](https://github.com/DefenderOfBasic/obs
 _SnakeFist, 2022-2025_
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/source/assets/brainmadeORG.svg" />
 </div>
