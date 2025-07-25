@@ -64,7 +64,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Nines deal with their main emotion of **Anger** and core issue of **Sloth**.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e189_triad.svg" width="300" />
 </div>
 
@@ -111,7 +111,9 @@ Nines resist being pushed or controlled by quietly refusing to engage - a passiv
 
 > [!tip] Describes how Nines deal with outer conflict in general.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_279_Harmony-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e279_harmony.svg" width="300" />
+</div>
 
 The silver lining is what these types focus upon. When the going gets tough, the Positive Outlook types bring our attention to what is still going right and how the problem may not be that bad.
 
@@ -166,7 +168,9 @@ The Nine offers the “only” gift they feel won’t disrupt anything: their pe
 
 > [!tip] Nines become _self-developing_ and _energetic_, like Threes.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_9_Integration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/e9_int.svg" width="300" />
+</div>
 
 - biggest obstacle to their self-actualization is their tendency towards inertia
 - will frequently encounter feelings of heaviness or sleepiness whenever they try to do something good for themselves
@@ -181,7 +185,9 @@ The Nine offers the “only” gift they feel won’t disrupt anything: their pe
 
 > [!tip] Nines become _anxious_ and _worried_, like Sixes.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_9_Disintegration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/e9_dis.svg" width="300" />
+</div>
 
 - investing themselves in ideas or relationships that they believe will give them more security and stability
 - when worries and anxieties surface, Nines focus intensively on work and projects
@@ -372,26 +378,40 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_9_TraitLab-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/e9_traitlab.png" width="700" />
+</div>
 
 ## Probable Connection to MBTI
 
-- [[../Myers-Briggs Type Indicator/INFJ - The Advocate|INFJ - The Advocate]]
-- [[../Myers-Briggs Type Indicator/ISFJ - The Defender|ISFJ - The Defender]]
+- INFJ - The Advocate
+- ISFJ - The Defender
 
 ## Characters You May Know
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_9_Annie_Leonhart-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/suki.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_9_Maxine_Caulfield-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/shigeo_kageyama.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-05-11-Type_9-Denji-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/annie_leonhardt.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_9_Harry_Potter-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/rei_ayanami.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_9_Rei_Ayanami-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/blake_belladonna.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_9_Shigeo_Kageyama-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/shigeo_kageyama.png" width="700" />
+</div>
 
 ---
 _SnakeFist, 2022-2025_
