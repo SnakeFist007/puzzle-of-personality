@@ -58,7 +58,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Eights deal with their main emotion of **Anger** and core issue of **Lust**.
 
-<div>
+<div style="text-align: center;">
     <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e189_triad.svg" width="300" />
 </div>
 
@@ -131,7 +131,9 @@ While this reactivity can protect them and others in dangerous situations, it ca
 
 > [!tip] How Eights see the world, and what they expect from relationships.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_258_Object-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e258_object.svg" width="300" />
+</div>
 
 - see the world as a place where power dynamics are constantly at play
     - _“I must remain strong to protect myself and those I care about”_
@@ -162,7 +164,9 @@ For Eights, relationships must allow space for independence and strength. They n
 
 > [!tip] Eights become _open-hearted_ and _caring_, like Twos.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_Integration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e8/e8_int.svg" width="300" />
+</div>
 
 - **Eights learn to soften their approach**, becoming more vulnerable and open-hearted, embracing the emotional needs of others and themselves
     - they recognize the importance of compassion and empathy, and they begin to show care and affection in a more genuine way
@@ -175,7 +179,9 @@ For Eights, relationships must allow space for independence and strength. They n
 
 > [!tip] Eights become _secretive_ and _fearful_, like Fives.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_Disintegration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e8/e8_dis.svg" width="300" />
+</div>
 
 - **Eights under stress can withdraw emotionally**, becoming more secretive and distant, avoiding close connections or vulnerability
     - they may retreat into their inner world and become absorbed in their own thoughts, losing touch with their external environment and relationships
@@ -386,26 +392,24 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_TraitLab-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e8/e8_traitlab.png" width="700" />
+</div>
 
 ## Probable Connections to MBTI
 
-- [[../Myers-Briggs Type Indicator/ESFP - The Entertainer|ESFP - The Entertainer]]
-- [[../Myers-Briggs Type Indicator/ESTP - The Entrepreneur|ESTP - The Entrepreneur]]
+- ESFP - The Entertainer
+- ESTP - The Entrepreneur
 
 ## Characters You May Know
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_Korra-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e8/korra.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_Power-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_Ymir-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_Dean_Winchester-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_Kuvira-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_8_Maeve_Wiley-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e8/power.png" width="700" />
+</div>
 
 ---
 _SnakeFist, 2022-2025_
