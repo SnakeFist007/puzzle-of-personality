@@ -398,7 +398,7 @@ What mainly differentiates the wings from each other, is how they approach the c
 </div>
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/annie_leonhardt.png" width="700" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e9/annie_leonhart.png" width="700" />
 </div>
 
 <div style="text-align: center;">
