@@ -83,7 +83,9 @@ All Heart types (Types Two, Three & Four) depend on their emotional intelligenc
 
 > [!tip] Describes how Fours get what they want and how they resolve inner conflicts.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_459_Horney-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e459_horney.svg" width="300" />
+</div>
 
 - introspective, self-aware, and emotionally deep
 - withdraw not to avoid life, but to find meaning, process their inner world, or protect their sensitivity
@@ -105,7 +107,9 @@ Fours prefer to resolve conflict or tension by going inward rather than pushing 
 
 > [!tip] Describes how Fours deal with outer conflict in general.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_468_Harmony-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e468_harmony.svg" width="300" />
+</div>
 
 Fours belong to the Reactive (or “Emotional Realness”) group - types who respond to conflict with emotional depth, authenticity, and a desire for attunement. When tensions arise, Fours don’t minimize or dismiss them - they express their feelings and expect others to meet them there.
 
@@ -126,8 +130,8 @@ While this reactivity can deepen emotional bonds when others respond with presen
 
 > [!tip] How Fours see the world, and what they expect from relationships.
 
-<div>
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e147_object.svg" width="300" />
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e147_object.svg" width="300" />
 </div>
 
 - often feel there is something deeply missing - in themselves, others, or the world
@@ -158,7 +162,9 @@ The Four offers the “only” thing they feel truly defines them: their inner w
 
 > [!tip] Fours become _objective_ and _principled_, like Ones.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_4_Integration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e4/e4_int.svg" width="300" />
+</div>
 
 - **become more disciplined** and focused on doing what’s right, rather than just what feels authentic to them
     - they develop a strong sense of responsibility, balance, and fairness
@@ -174,7 +180,9 @@ The Four offers the “only” thing they feel truly defines them: their inner w
 
 > [!tip] Fours become _over-involved_ and _clinging_, like Twos.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_4_Disintegration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e4/e4_dis.svg" width="300" />
+</div>
 
 - when under stress, Fours can become **excessively focused on the needs of others**, losing sight of their own emotional needs
     - they may become overly dependent on others’ validation to feel valued or worthy
@@ -396,26 +404,32 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_4_TraitLab-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e4/e4_traitlab.png" width="700" />
+</div>
 
 ## Probable Connections to MBTI
 
-- [[../Myers-Briggs Type Indicator/INFP - The Mediator|INFP - The Mediator]]
-- [[../Myers-Briggs Type Indicator/ISFP - The Adventurer|ISFP - The Adventurer]]
+- INFP - The Mediator
+- ISFP - The Adventurer
 
 ## Characters You May Know
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_4_Hitori_Gotou-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e4/hitori_gotou.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_4_Jinx-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e4/jinx.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_4_Squidward-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e4/squidward.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_4_Ted_Mosby-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_4_Zuko-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-05-11-Type_4_Hiro-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e4/zuko.png" width="700" />
+</div>
 
 ---
 _SnakeFist, 2022-2025_

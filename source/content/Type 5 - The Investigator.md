@@ -83,7 +83,9 @@ All Head types (Types Five, Six and Seven) depend on their intellectual intellig
 
 > [!tip] Describes how Fives get what they want and how they resolve inner conflicts.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_459_Horney-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e459_horney.svg" width="300" />
+</div>
 
 - calm, introverted, and introspective
     - not overtly attention-seeking

@@ -87,7 +87,9 @@ All Body types (Types Eight, Nine and One) depend on their instinctual intellige
 
 > [!tip] Describes how Nines get what they want and how they resolve inner conflicts.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_459_Horney-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e459_horney.svg" width="300" />
+</div>
 
 - easygoing, receptive, and tend to move at their own pace
 - withdraw not to gain attention or control, but to maintain internal stability and avoid pressure

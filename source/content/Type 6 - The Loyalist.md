@@ -104,7 +104,9 @@ Their commitment to their cause gives them confidence and makes them look down u
 
 > [!tip] Describes how Sixes deal with outer conflict in general.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_468_Harmony-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e468_harmony.svg" width="300" />
+</div>
 
 Sixes can get into conflict by being too pessimistic, suspicious, and doubtful. They tend to be very anxious people, always on the watch for dangers and threats. When conflicts or threats occur, their anxiety comes out, often as long rants, hysterical overreactions, and feelings of inferiority. Sixes want to trust others, but remain wary of problems.
 

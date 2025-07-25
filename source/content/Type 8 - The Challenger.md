@@ -107,7 +107,9 @@ Eights meet life head-on. They resolve conflict by confronting it directly, ofte
 
 > [!tip] Describes how Eights deal with outer conflict in general.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_468_Harmony-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/harmony/e468_harmony.svg" width="300" />
+</div>
 
 Eights belong to the Reactive group, which means they respond to conflict with intensity, immediacy, and directness. When outer conflict arises, Eights don't hold back - they meet it head-on and are often quick to challenge or confront whatever feels threatening to their autonomy, values, or integrity.
 
