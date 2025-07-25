@@ -166,7 +166,7 @@ The Two offers the “only” gift it has left: their heart. They focus on the n
 > [!tip] Prideful Twos become _self-nurturing_, like Fours.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e2_int.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e2/e2_int.svg" width="300" />
 </div>
 
 - become actualized and remain healthy by learning to recognize and accept all of their feelings without censoring
@@ -182,7 +182,7 @@ The Two offers the “only” gift it has left: their heart. They focus on the n
 > [!tip] Desperate Twos become _aggressive_ and _dominating_, like Eights.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e2_dis.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e2/e2_dis.svg" width="300" />
 </div>
 
 - become more blunt and forceful, which reveals that they are remarkably tough underneath it all
