@@ -70,7 +70,9 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 
 > [!tip] How Sixes deal with their main emotion of **Fear** and core issue of **Doubt**.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_567_Triad-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e567_triad.svg" width="300" />
+</div>
 
 - **Core Question:** _“When will I know that I have enough security?”_
     - **Issue:** fear being abandoned and left without support
@@ -88,8 +90,8 @@ All Head types (Types Five, Six and Seven) depend on their intellectual intellig
 
 > [!tip] Describes how Sixes get what they want and how they resolve inner conflicts.
 
-<div>
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e126_horny.svg" width="300" />
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e126_horney.svg" width="300" />
 </div>
 
 **These people try to obey internalized rules and principles to get what they want.**
@@ -145,7 +147,9 @@ Sixes doubt their own ability to cope with the world, so they seek security thro
 
 > [!tip] Sixes become _relaxed_ and _optimistic_, like Nines.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_Integration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e6/e6_int.svg" width="300" />
+</div>
 
 - to find stability, focus on physical presence to get grounded in the present moment
 - being active doesn't equate to being aware of the body's sensations. Pay attention to sensory impressions to counterbalance constant thinking and provide an alternative identity
@@ -155,7 +159,9 @@ Sixes doubt their own ability to cope with the world, so they seek security thro
 
 > [!tip] Sixes become _competitive_ and _arrogant_, like Threes.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_Disintegration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e6/e6_dis.svg" width="300" />
+</div>
 
 - may also become boastful and self-promoting
 - dismissing others, and hyping their own superiority in a desperate attempt to defend against their low self-esteem and feelings of inferiority
@@ -338,25 +344,27 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_TraitLab-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e6/e6_traitlab.png" width="700" />
+</div>
 
 ## Probable Connections to MBTI
 
-- [[../Myers-Briggs Type Indicator/ISFJ - The Defender|ISFJ - The Defender]]
+- ISFJ - The Defender
 
 ## Characters You May Know
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_Armin_Arlert-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e6/armin_arlert.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_Chloe_Price-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e6/sokka.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_Eren_Yeager-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_Mikasa_Ackerman-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_Sokka-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_6_Violet_Evergarden-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e6/violet_evergarden.png" width="700" />
+</div>
 
 ---
 _SnakeFist, 2022-2025_
