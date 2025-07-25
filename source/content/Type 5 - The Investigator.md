@@ -64,7 +64,7 @@ The Enneagram can roughly be divided into 4 different groups, consisting of 3 su
 > [!tip] How Fives deal with their main emotion of **Fear** and core issue of **Stinginess**.
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triad/e567_triads.svg" width="300" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads/e567_triad.svg" width="300" />
 </div>
 
 - **Core Question:** _“Where am I, and is it safe for me here?”_
