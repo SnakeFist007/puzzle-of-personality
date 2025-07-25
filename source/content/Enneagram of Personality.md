@@ -9,7 +9,7 @@ cssclasses:
 ---
 
 <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Enneagram_of_Personality_Welcome-1.gif" />
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/welcome.gif" />
 </div>
 
 > [!important] This site is dedicated to exploring the Enneagram!
@@ -49,27 +49,27 @@ The Enneagram includes a variety of subtopics, and we will briefly examine the m
 
 The nine types of the Enneagram are divided among Heart, Head and Body types:
 
-**Heart types** depend on their _emotional_ intelligence, to understand their own reactions and connect with others.
-**Head types** depend on their _intellectual_ intelligence, to make sense of things and navigate the world around them.
-**Body types** depend on their _instinctual_ intelligence, to follow their gut and respond to threats and opportunities.
+- **Heart types** depend on their _emotional_ intelligence, to understand their own reactions and connect with others.
+- **Head types** depend on their _intellectual_ intelligence, to make sense of things and navigate the world around them.
+- **Body types** depend on their _instinctual_ intelligence, to follow their gut and respond to threats and opportunities.
 
 The “rule of three” can be found a lot inside the Enneagram, meaning that type is directly connected to two other types in some way - forming different forms of groups.
 
 If we connect the corresponding types with each other, we get this:
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Enneagram_of_Personality_Triads-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/triads.svg" width="300" />
 </div>
 
-Beyond the classic Heart, Head, and Body triads, the Enneagram also connects to other psychological groupings that provide additional layers of understanding - complementing the triads by offering different perspectives on motivation, behavior, and emotional response within the Enneagram framework.
+Beyond the classic Heart, Head and Body triads, the Enneagram also connects to other psychological groupings that provide additional layers of understanding - complementing the triads by offering different perspectives on motivation, behavior and emotional response within the Enneagram framework.
 
 ### Horney’s Coping Strategies
 
-These describe how types relate to others through patterns of moving _toward_ (**compliance**), _against_ (**aggression**), or _away_ (**withdrawal**) from people. This model highlights fundamental interpersonal strategies underlying each type.
+These describe how types relate to others through patterns of moving _toward_ (**compliance**), _against_ (**aggression**) or _away_ (**withdrawal**) from people. This model highlights fundamental interpersonal strategies underlying each type.
 
 ### Harmony Types
 
-This grouping focuses on how types respond emotionally, especially under stress or conflict, dividing them into categories like **positive outlook**, **competency**, or **reactivity** to better understand coping mechanisms.
+This grouping focuses on how types respond emotionally, especially under stress or conflict, dividing them into categories like **positive outlook**, **competency** or **reactivity** to better understand coping mechanisms.
 
 ### Object Relations Groups
 
@@ -78,8 +78,6 @@ Rooted in psychodynamic theory, these categorize types based on early relational
 ---
 
 ## Integration & Disintegration
-
-This is what you see when you look at the illustration of the Enneagram!
 
 Each basic type in the Enneagram is connected by two lines to another type. There are two trains of thought on how this effect occurs.
 
@@ -90,15 +88,21 @@ In both cases the connecting lines highlight how each type can possess indispens
 
 If we connect the corresponding types with each other, we get this:
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-04-08-Enneagram_of_Personality_Logo-1.svg" width="300" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/enneagram.svg" width="300" />
 </div>
+
+This is what you see when you look at the illustration of the Enneagram!
 
 ---
 
 ## Wings
 
 Each Enneagram type is flanked by two neighboring types, which are known as its **wings**. The dominant type may be influenced by one of these adjacent types, resulting in a more nuanced personality expression.
+
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/wings.svg" width="300" />
+</div>
 
 Wings are not separate types, but rather variations that shape how the core motivations and fears are expressed. While most people tend to lean toward one wing more strongly, it's possible to draw traits from both, or experience a shift in wing influence over time.
 
@@ -114,7 +118,7 @@ Within the Enneagram framework, there are two distinct concepts commonly associa
 
 This model was developed by Don Riso and Russ Hudson and functions as a separate two-dimensional typing system that interacts with – but is not subordinate to – the Enneagram type itself.
 
-It is based on how individuals prioritize three instinctual drives: _self-preservation (sp)_, _social (so)_, and _sexual (sx)_.
+It is based on how individuals prioritize three instinctual drives: _self-preservation (sp)_, _social (so)_ and _sexual (sx)_.
 The result is an **instinctual stacking**, such as `sp/so` or `sx/sp`, where the third instinct is typically considered the _”blind spot”_.
 
 Crucially, this is not a subtype system in the strict sense. A designation like sp7 does not mean that sp is a subtype of [[Enneagram of Personality/Type 7 - The Adventurer|Type 7]]. Rather, it is a shorthand for someone who has a self-preservation dominant instinctual stacking (e.g. sp/so) in combination with being a [[Enneagram of Personality/Type 7 - The Adventurer|Type 7]]. The traits of this combination emerge from the interaction between two separate systems: Enneagram type and instinctual stacking.
@@ -136,6 +140,6 @@ This model also does not use stacking systems like `sx/sp` or `so/sp`. Instead, 
 ---
 _SnakeFist, 2022-2025_
 
-<div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/2025-06-04-BRAINMADE.ORG-1.svg" />
+<div>
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/brainmadeORG.svg" width="150" />
 </div>
