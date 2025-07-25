@@ -80,7 +80,9 @@ All Heart types (Types Two, Three & Four) depend on their emotional intelligenc
 
 > [!tip] Describes how Threes get what they want and how they resolve inner conflicts.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_378_Horney-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e378_horney.svg" width="300" />
+</div>
 
 - efficient, ambitious, and driven to succeed
 - will do whatever it takes to reach their goals, even if it means suppressing their true feelings or personal needs
@@ -126,7 +128,9 @@ Threes also have difficulties admitting to personal struggles:
 
 > [!tip] How Threes see the world, and what they expect from relationships.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_369_Object-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e369_object.svg" width="300" />
+</div>
 
 - either **feel unrecognized** or expect to be **overlooked** from the start:
     - _“If I don’t prove my worth, I will be ignored.”_
@@ -154,7 +158,9 @@ May have a tendency to **overperform and overachieve** before others can ever do
 
 > [!tip] Threes become _cooperatve_ and _committed to others_, like Sixes.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_Integration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e3/e3_int.svg" width="300" />
+</div>
 
 - become **actualized and truly authentic** by learning to value themselves beyond external success.
     - begin to recognize that **who they are is enough**, even without achievements, status, or admiration.
@@ -170,7 +176,9 @@ At their best, Threes integrate the virtues of Sixes, fostering **genuine connec
 
 > [!tip] Threes become _disengaged_ and _apathetic_, like Nines.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_Disintegration-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e3/e3_dis.svg" width="300" />
+</div>
 
 - become increasingly **withdrawn and detached**, avoiding confrontation while privately feeling overwhelmed and insecure.
     - their usual charm and adaptability **give way to cynicism and passive-aggressiveness** as they lose confidence in their ability to maintain their image.
@@ -384,26 +392,28 @@ What mainly differentiates the wings from each other, is how they approach the c
 
 ## Correlation with Big Five
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_TraitLab-1.png|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e3/e3_traitlab.png" width="700" />
+</div>
 
 ## Probable Connections to MBTI
 
-- [[../Myers-Briggs Type Indicator/ENFJ - The Protagonist|ENFJ - The Protagonist]]
-- [[../Myers-Briggs Type Indicator/ESTJ - The Executive|ESTJ - The Executive]]
+- ENFJ - The Protagonist
+- ESTJ - The Executive
 
 ## Characters You May Know
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_Kim_Possible-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e3/arataka_reigen.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_Arataka_Reigen-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e3/azula.png" width="700" />
+</div>
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_Azula-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_Reiner_Braun-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_Ren_Yamai-1.svg|700]]
-
-![[../../99 - Meta/Attachments/2025-04-08-Type_3_Eugene_Krabs-1.svg|700]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/e3/asuka_langley_soryu.png" width="700" />
+</div>
 
 ---
 _SnakeFist, 2022-2025_

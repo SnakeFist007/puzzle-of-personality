@@ -81,7 +81,9 @@ For Sevens, fear is a hidden companion. They may not show it outwardly, but bene
 
 > [!tip] Describes how Sevens get what they want and how they resolve inner conflicts.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_378_Horney-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e378_horney.svg" width="300" />
+</div>
 
 - energetic, optimistic, and constantly seeking new experiences
 - move _against_ limitations, seeking to break free from anything that feels restricting or confining

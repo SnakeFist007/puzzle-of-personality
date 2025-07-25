@@ -82,7 +82,9 @@ For Eights, anger is not hidden or denied - it’s a vital signal that something
 
 > [!tip] Describes how Eights get what they want and how they resolve inner conflicts.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_378_Horney-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/horney/e378_horney.svg" width="300" />
+</div>
 
 - direct, self-confident, and action-oriented
 - move _against_ obstacles and take charge of situations

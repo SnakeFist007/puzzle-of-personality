@@ -118,7 +118,9 @@ Sometimes they let their guard down (when within the confines of the authority /
 
 > [!tip] How Sixes see the world, and what they expect from relationships.
 
-![[../../99 - Meta/Attachments/2025-04-08-Type_369_Object-1.svg|300]]
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/SnakeFist007/puzzle-of-personality/refs/heads/main/source/assets/relation/e369_object.svg" width="300" />
+</div>
 
 - they adapt their behavior to be consistent with people or things
     - “What is the best way to interact with people / things?”
